@@ -11,4 +11,4 @@ This is an Expo/React Native project with TypeScript.
 - Screens are defined in `./src/app/**`
 - Components are defined in `./src/components/**`
 - Other TypeScript files like hooks, constants, config, etc. are in `./src/lib/**`
-- Use Drizzle + Drizzle Kit for local DB. You can find the relavent files in `./drizzle/**` and `./src/lib/db/**`
+- Use Drizzle + Drizzle Kit for a local SQLite DB. You can find the relavent files in `./drizzle/**` and `./src/lib/db/**`
